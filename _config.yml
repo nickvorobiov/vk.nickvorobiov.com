@@ -1,0 +1,13 @@
+baseurl: ""
+url: "http://vk.nickvorobiov.com"
+markdown: kramdown
+exclude:
+  - node_modules
+  - package.json
+  - README.md
+  - gulpfile.js
+  - '*.scss'
+
+permalink: /:title/
+
+title: 'VK Helper'
